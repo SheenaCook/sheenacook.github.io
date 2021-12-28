@@ -77,8 +77,8 @@ button, input, optgroup, select, textarea {
     display: block;
     margin-left: 2px;
     opacity: 0.44;
-    -webkit-transition: opacity 300ms ease;
-    transition: opacity 300ms ease;
+    -webkit-transition: opacity 900ms ease;
+    transition: opacity 900ms ease;
     color: #fff;
     text-decoration: none;
     text-transform: capitalize;
