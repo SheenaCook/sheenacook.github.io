@@ -69,6 +69,12 @@ button, input, optgroup, select, textarea {
     margin: 0;
 }
 
+/*
+a:visited {
+  color: white;
+}
+*/
+
 .active {
     background-color: #717171;
 }
@@ -77,8 +83,8 @@ button, input, optgroup, select, textarea {
     display: block;
     margin-left: 2px;
     opacity: 0.44;
-    -webkit-transition: opacity 900ms ease;
-    transition: opacity 900ms ease;
+    -webkit-transition: opacity 300ms ease;
+    transition: opacity 300ms ease;
     color: #fff;
     text-decoration: none;
     text-transform: capitalize;
@@ -120,16 +126,7 @@ button, input, optgroup, select, textarea {
     background-color: #249cff;
 }
 
-.button.hollow {
-    border-color: #fff;
-    background-color: transparent;
-    color: #fff;
-}
 
-
-.button-group {
-    margin-top: 36px;
-}
 
 .caption-title {
     margin-bottom: 5px;
@@ -186,6 +183,11 @@ button, input, optgroup, select, textarea {
     background-color: #fff;
 }
 
+.link-colour {
+    background-color: #d1d1d1;
+    color: #fff;
+}
+
 .logo {
     margin-top: 15px;
     margin-bottom: 15px;
@@ -198,7 +200,7 @@ button, input, optgroup, select, textarea {
 }
 
 .logo:hover {
-    color: #249cff;
+    color: #696969;
 }
 
 .main-heading {
@@ -237,7 +239,7 @@ button, input, optgroup, select, textarea {
 }
 
 .project-link.project-1 {
-    background-image: url("https://c1.staticflickr.com/1/859/39785435280_39ede7ca36_h.jpg");
+    background-image: url("/public/sheena_image.jpeg");
 }
 
 .project-wrapper {
@@ -531,16 +533,8 @@ button, input, optgroup, select, textarea {
         margin-bottom: 12px;
     }
 
-    .button.hollow {
-        padding: 11px 18px;
-    }
-
-    .navbar {
-        padding-left: 10px;
-    }
-
     .logo {
-        margin-top: 9px;
+        margin: 12px;
         font-size: 22px;
     }
 
@@ -611,10 +605,6 @@ button, input, optgroup, select, textarea {
 
     .s-col-small-6 {
         width: 50%
-    }
-
-    .s-nav-brand {
-        padding-left: 10px
     }
 
     .s-row, .s-container .s-row {
