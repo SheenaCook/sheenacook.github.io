@@ -120,17 +120,6 @@ button, input, optgroup, select, textarea {
     background-color: #249cff;
 }
 
-.button.hollow {
-    border-color: #fff;
-    background-color: transparent;
-    color: #fff;
-}
-
-
-.button-group {
-    margin-top: 36px;
-}
-
 .caption-title {
     margin-bottom: 5px;
 }
@@ -529,10 +518,6 @@ button, input, optgroup, select, textarea {
 
     h2 {
         margin-bottom: 12px;
-    }
-
-    .button.hollow {
-        padding: 11px 18px;
     }
 
     .navbar {
