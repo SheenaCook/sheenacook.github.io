@@ -12,20 +12,29 @@
     
     
     <item>
-      <title>tag1</title>
-      <link>https://sheenacook.github.io/tags/tag1/</link>
+      <title>birds</title>
+      <link>https://sheenacook.github.io/tags/birds/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sheenacook.github.io/tags/tag1/</guid>
+      <guid>https://sheenacook.github.io/tags/birds/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag2</title>
-      <link>https://sheenacook.github.io/tags/tag2/</link>
+      <title>blackbirds</title>
+      <link>https://sheenacook.github.io/tags/blackbirds/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sheenacook.github.io/tags/tag2/</guid>
+      <guid>https://sheenacook.github.io/tags/blackbirds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>winter</title>
+      <link>https://sheenacook.github.io/tags/winter/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sheenacook.github.io/tags/winter/</guid>
       <description></description>
     </item>
     
