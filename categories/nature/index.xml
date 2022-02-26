@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nature on Sheena Cook</title>
+    <title>nature on Sheena Cook</title>
     <link>https://sheenacook.github.io/categories/nature/</link>
-    <description>Recent content in Nature on Sheena Cook</description>
+    <description>Recent content in nature on Sheena Cook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate>
@@ -79,6 +79,15 @@ It makes us smile</description>
       
       <guid>https://sheenacook.github.io/post/raking-leaves/</guid>
       <description>Trees slumber. Leaves dress the drive. Damp and dank, Tannins leach brown. Stretch and rake, Rake and gather. Piles grow. Slow……slow…… The next season, Settling in your heart. Satisfactin in effort, That rooks applaud.</description>
+    </item>
+    
+    <item>
+      <title>Bees</title>
+      <link>https://sheenacook.github.io/post/bees/</link>
+      <pubDate>Sun, 18 Apr 2021 16:02:22 +0000</pubDate>
+      
+      <guid>https://sheenacook.github.io/post/bees/</guid>
+      <description>If it was nae for the bees Where would we be? Bloody hungry! And there’d be nae honey</description>
     </item>
     
   </channel>
