@@ -73,7 +73,12 @@
   </url>
   
   <url>
-    <loc>https://sheenacook.github.io/tags/gardens-spring/</loc>
+    <loc>https://sheenacook.github.io/tags/gardens/</loc>
+    <lastmod>2022-02-06T07:42:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheenacook.github.io/tags/spring/</loc>
     <lastmod>2022-02-06T07:42:15+00:00</lastmod>
   </url>
   
@@ -115,6 +120,11 @@
   <url>
     <loc>https://sheenacook.github.io/post/autumn-at-pulloxhill/</loc>
     <lastmod>2021-11-30T09:49:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheenacook.github.io/post/raking-leaves/</loc>
+    <lastmod>2021-11-15T10:05:02+00:00</lastmod>
   </url>
   
 </urlset>
