@@ -38,11 +38,6 @@
   </url>
   
   <url>
-    <loc>https://sheenacook.github.io/tags/</loc>
-    <lastmod>2022-02-25T08:43:39+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sheenacook.github.io/tags/birds/</loc>
     <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url>
@@ -54,6 +49,11 @@
   
   <url>
     <loc>https://sheenacook.github.io/categories/nature/</loc>
+    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheenacook.github.io/tags/</loc>
     <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -85,6 +85,11 @@
   <url>
     <loc>https://sheenacook.github.io/post/january-morning/</loc>
     <lastmod>2022-01-12T08:30:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheenacook.github.io/post/dry-january/</loc>
+    <lastmod>2022-01-01T08:39:33+00:00</lastmod>
   </url>
   
 </urlset>
