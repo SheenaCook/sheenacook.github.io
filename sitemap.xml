@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sheenacook.github.io/post/fine-fellows/</loc>
+    <lastmod>2022-02-26T08:57:35+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sheenacook.github.io/categories/</loc>
-    <lastmod>2022-02-26T07:57:19+00:00</lastmod>
+    <lastmod>2022-02-26T08:57:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheenacook.github.io/tags/new/</loc>
+    <lastmod>2022-02-26T08:57:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheenacook.github.io/post/</loc>
+    <lastmod>2022-02-26T08:57:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheenacook.github.io/categories/recent/</loc>
+    <lastmod>2022-02-26T08:57:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheenacook.github.io/</loc>
+    <lastmod>2022-02-26T08:57:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sheenacook.github.io/tags/</loc>
+    <lastmod>2022-02-26T08:57:35+00:00</lastmod>
   </url>
   
   <url>
@@ -18,22 +48,7 @@
   </url>
   
   <url>
-    <loc>https://sheenacook.github.io/post/</loc>
-    <lastmod>2022-02-26T07:57:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sheenacook.github.io/</loc>
-    <lastmod>2022-02-26T07:57:19+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sheenacook.github.io/post/whisky/</loc>
-    <lastmod>2022-02-25T08:43:39+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sheenacook.github.io/categories/recent/</loc>
     <lastmod>2022-02-25T08:43:39+00:00</lastmod>
   </url>
   
@@ -49,11 +64,6 @@
   
   <url>
     <loc>https://sheenacook.github.io/categories/nature/</loc>
-    <lastmod>2022-02-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sheenacook.github.io/tags/</loc>
     <lastmod>2022-02-13T00:00:00+00:00</lastmod>
   </url>
   
