@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nature on Sheena Cook</title>
+    <title>Nature on Sheena Cook</title>
     <link>https://sheenacook.github.io/categories/nature/</link>
-    <description>Recent content in nature on Sheena Cook</description>
+    <description>Recent content in Nature on Sheena Cook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Feb 2022 09:15:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sheenacook.github.io/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Derbyshire Details</title>
+      <link>https://sheenacook.github.io/post/derbyshire-details/</link>
+      <pubDate>Mon, 28 Feb 2022 09:15:00 +0000</pubDate>
+      
+      <guid>https://sheenacook.github.io/post/derbyshire-details/</guid>
+      <description>A steadiness as that river flows Tree colours natural heraldry Swimming swagger of trout River festival of ducks, geese, gulls The sky a blue canvas Clouds roil in a temporary grey Cattle graze a placid Autumn And we walk through it Feeling gratitude for the grandeur</description>
+    </item>
     
     <item>
       <title>Winter Blackbirds</title>
