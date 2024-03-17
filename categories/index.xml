@@ -6,11 +6,7 @@
     <description>Recent content in Categories on Sheena Cook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 15:53:47 +0100</lastBuildDate>
-    
-	<atom:link href="https://sheenacook.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 15 May 2022 15:53:47 +0100</lastBuildDate><atom:link href="https://sheenacook.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Humour</title>
       <link>https://sheenacook.github.io/categories/humour/</link>
@@ -39,7 +35,7 @@
     </item>
     
     <item>
-      <title>Misc</title>
+      <title>misc</title>
       <link>https://sheenacook.github.io/categories/misc/</link>
       <pubDate>Fri, 25 Feb 2022 08:43:39 +0000</pubDate>
       
